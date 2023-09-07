@@ -19,7 +19,7 @@
 ![Picture](https://cdn.discordapp.com/attachments/917202287817011250/1149391912277639248/Screenshot_2023-09-07_203656.png)
 
 ### WhiteList System
-[![Watch the video](https://cdn.discordapp.com/attachments/917202287817011250/1149391908200779866/2023.09.07-20.27.mp4)
+[![Watch the video](https://cdn.discordapp.com/attachments/917202287817011250/1149393582839562330/image.png)](https://cdn.discordapp.com/attachments/917202287817011250/1149391908200779866/2023.09.07-20.27.mp4)
 
 ### Password System
 [![Watch the video](https://cdn.discordapp.com/attachments/917202287817011250/1149391887149572136/2023.09.07-20.28.mp4)
